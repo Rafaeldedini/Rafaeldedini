@@ -1,7 +1,4 @@
--  Oi, me chamo Rafael Dedini. Tenho 18 anos 
--  Me interesso muito por programação e hardware.
--  Atualmente estou estudando Engenharia de Computação na Unitau. Em Taubaté - SP.
--  Estou procurando um estágio para começar minha jornada de trabalho e ganhar experiência na área.
+-  Oi, me chamo Rafael Dedini. 
 -  Para entrar em contato, mande um e-mail para: dedinirafael@gmail.com
 
 <!---
